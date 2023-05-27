@@ -38,3 +38,7 @@ Para ejecutar los modelos, se recomienda seguir los siguientes pasos:
 Recuerda que los archivos de datos utilizados se encuentran en los enlaces proporcionados anteriormente.
 
 ¡Explora y experimenta con los modelos de RNN para clasificación y regresión! Si tienes alguna pregunta o comentario, no dudes en dejarlo en el repositorio. ¡Disfruta el proyecto!
+
+## Video descriptivo:
+
+[![Video de ejemplo](https://img.youtube.com/vi/F_CR3V3KtI8/0.jpg)](https://youtu.be/F_CR3V3KtI8)
